@@ -597,6 +597,7 @@ header .container{
 #footersec{
     background: var(--secondary-colour);
     padding:100px 0px;
+    margin-top:40px;
 }
 .footersec_row1 {
     width:100%;
