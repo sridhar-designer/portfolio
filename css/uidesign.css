@@ -9,7 +9,7 @@
     font-size: 72px !important;
 }
 .ui_designs .heading{
-    margin: 200px auto 10% auto;
+    margin: 10% auto 5% auto;
 }
 
 
@@ -38,10 +38,13 @@
     column-count: 2;
   }
   .ui_designs .heading {
-    margin: 175px auto 40px auto;
+    margin: 20% auto 5% auto;
   }
   .ui_designs .heading h1 {
     font-size: 50px !important;
+  }
+  .heading h1{
+    margin-top:15px;
   }
 }
 
@@ -51,7 +54,10 @@
     column-count: 1;
   }
   .ui_designs .heading {
-    margin: 150px auto 40px auto;
+    margin: 25% auto 5% auto;
+  }
+  .heading h1{
+    margin-top:15px;
   }
 }
 
