@@ -252,6 +252,9 @@ header .container{
 .sm_icon:nth-child(4) i{
     font-size: 22px !important;
 }
+.sm_icon a{
+    color: var(--secondary-colour);
+}
 
 /* ========== about style ========== */
 
