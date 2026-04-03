@@ -315,6 +315,7 @@ header .container{
      font-style: italic;
      font-weight: bold;
      margin-top: 0px;
+     margin-left: 10px;
      color:var(--primary-colour);
 }
 .worksEP{
@@ -485,7 +486,7 @@ header .container{
     width:100%;
     overflow: hidden;
     white-space: nowrap;
-    margin-top:140px;
+    margin-top:50px;
 }
 .mockupImage {
     display: inline-flex;
